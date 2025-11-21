@@ -76,13 +76,13 @@ Hovering on charts in the main dashboard displays this detailed tooltip.
 ## 🖼 5. Screenshots
 
 ### ⭐ Main Dashboard  
-*(Add your image here when uploaded to GitHub)*
+![Main Dashboard](screenshots/main_dashboard.png)
 
 ### ⭐ Drillthrough Page  
-*(Add your image here)*
+![Drillthrough Page](screenshots/drillthrough_page.png)
 
 ### ⭐ Tooltip Page  
-*(Add your image here)*
+![Tooltip](screenshots/tooltip_page.png)
 
 ## 🛠 Tools Used
 
