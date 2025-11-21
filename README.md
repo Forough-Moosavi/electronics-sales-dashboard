@@ -4,18 +4,22 @@
 This project demonstrates a complete end-to-end **data analytics workflow** using **Power BI**, including data cleaning, modeling, dashboard design, advanced interactions, and storytelling.  
 It uses a synthetic dataset of electronics sales across different cities, product categories, and months of the year.
 
-## 📁 Project Structure
+📂 Project Structure
 
+```plaintext
 electronics-sales-dashboard
 │
-├── electronics_sales_dashboard.pbix        # Main Power BI report
-├── raw_data.csv                            # Raw imported dataset
+├── electronics_sales_dashboard.pbix # Main Power BI report
+├── raw_data.csv # Raw imported dataset
 │
-├── screenshots/                            # Dashboard preview images
-│   ├── main_dashboard.png
-│   ├── drillthrough_pag_
-
-
+├── screenshots/ # Dashboard preview images
+│ ├── main_dashboard.png
+│ ├── drillthrough_page.png
+│ ├── tooltip_page.png
+│ └── sample_data.png
+│
+└── README.md
+```
 ## 🧹 1. Data Cleaning (Power Query)
 
 Data preparation was done using **Power Query**:
