@@ -7,15 +7,13 @@ It uses a synthetic dataset of electronics sales across different cities, produc
 ## 📁 Project Structure
 
 📦 electronics-sales-dashboard
-│
-├── electronics_sales_dashboard.pbix     # Main Power BI report  
-├── raw_data.csv                          # Raw imported dataset
-├── screenshots/                          # Dashboard preview images
+├── electronics_sales_dashboard.pbix        # Main Power BI report
+├── raw_data.csv                            # Raw imported dataset
+├── screenshots/                            # Dashboard preview images
 │   ├── main_dashboard.png
 │   ├── drillthrough_page.png
 │   ├── tooltip_page.png
 │   └── sample_data.png
-│
 └── README.md
 
 ## 🧹 1. Data Cleaning (Power Query)
