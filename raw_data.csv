@@ -1,0 +1,801 @@
+Date,Store,Product,Category,Quantity,UnitPrice,CostPerUnit,TotalSales,Profit
+2024-01-01,Manchester,USB-C Cable,Accessories,3,1173.94,832.2,3521.82,1025.22
+2024-01-02,Liverpool,Samsung Tab S9,Tablets,3,1301.94,924.89,3905.82,1131.15
+2024-01-03,Birmingham,Xbox Controller,Gaming,4,1409.06,704.91,5636.24,2816.6
+2024-01-04,London,PS5 Controller,Gaming,4,925.25,464.91,3701.0,1841.36
+2024-01-05,Birmingham,Samsung S22,Smartphones,3,611.79,315.89,1835.37,887.7
+2024-01-06,Liverpool,Amazon Fire HD,Tablets,4,896.77,462.96,3587.08,1735.24
+2024-01-07,Manchester,PS5 Controller,Gaming,2,1424.35,1193.56,2848.7,461.58
+2024-01-08,Birmingham,MacBook Air M1,Laptops,2,164.55,121.68,329.1,85.74
+2024-01-09,Birmingham,USB-C Cable,Accessories,3,1365.79,806.6,4097.37,1677.57
+2024-01-10,Manchester,MacBook Pro M2,Laptops,4,293.58,246.42,1174.32,188.64
+2024-01-11,Newcastle,Samsung Buds,Accessories,2,1344.34,953.49,2688.68,781.7
+2024-01-12,Leeds,AirPods Pro,Accessories,5,595.24,354.15,2976.2,1205.45
+2024-01-13,Leeds,MacBook Air M1,Laptops,4,918.41,547.92,3673.64,1481.96
+2024-01-14,Birmingham,PS5 Controller,Gaming,1,1480.59,1140.48,1480.59,340.11
+2024-01-15,Liverpool,Samsung Tab S9,Tablets,1,1072.79,833.09,1072.79,239.7
+2024-01-16,Birmingham,Xbox Controller,Gaming,2,191.49,153.59,382.98,75.8
+2024-01-17,Liverpool,MacBook Air M1,Laptops,5,1099.82,795.33,5499.1,1522.45
+2024-01-18,London,iPad 10,Tablets,3,197.0,147.68,591.0,147.96
+2024-01-19,Manchester,Xbox Controller,Gaming,3,793.64,515.58,2380.92,834.18
+2024-01-20,Birmingham,USB-C Cable,Accessories,3,66.52,48.08,199.56,55.32
+2024-01-21,Liverpool,Gaming Headset,Gaming,5,388.95,250.34,1944.75,693.05
+2024-01-22,Newcastle,Gaming Headset,Gaming,5,133.93,80.55,669.65,266.9
+2024-01-23,Newcastle,Samsung Buds,Accessories,2,1216.02,877.59,2432.04,676.86
+2024-01-24,Liverpool,Anker Charger,Accessories,4,296.12,240.57,1184.48,222.2
+2024-01-25,London,HP Pavilion,Laptops,1,490.65,264.22,490.65,226.43
+2024-01-26,Newcastle,iPad 10,Tablets,4,541.8,328.7,2167.2,852.4
+2024-01-27,Liverpool,iPad 10,Tablets,5,1044.81,620.92,5224.05,2119.45
+2024-01-28,Birmingham,Samsung A54,Smartphones,1,116.04,68.33,116.04,47.71
+2024-01-29,Liverpool,Dell XPS 13,Laptops,1,239.17,203.11,239.17,36.06
+2024-01-30,London,iPhone 15,Smartphones,2,628.33,321.43,1256.66,613.8
+2024-01-31,Newcastle,Samsung S22,Smartphones,2,805.78,529.18,1611.56,553.2
+2024-02-01,Leeds,Logitech Mouse,Accessories,3,378.4,295.57,1135.2,248.49
+2024-02-02,London,Samsung Buds,Accessories,3,1228.32,957.38,3684.96,812.82
+2024-02-03,Birmingham,Logitech Mouse,Accessories,5,1290.37,792.4,6451.85,2489.85
+2024-02-04,Birmingham,iPad Pro,Tablets,3,1218.06,757.67,3654.18,1381.17
+2024-02-05,London,iPhone 14,Smartphones,2,1259.81,927.84,2519.62,663.94
+2024-02-06,Manchester,iPhone 15,Smartphones,2,401.75,293.68,803.5,216.14
+2024-02-07,Newcastle,Samsung A54,Smartphones,4,406.03,344.59,1624.12,245.76
+2024-02-08,London,USB-C Cable,Accessories,5,1326.3,750.75,6631.5,2877.75
+2024-02-09,London,Samsung Tab S9,Tablets,3,1287.36,825.94,3862.08,1384.26
+2024-02-10,Birmingham,Logitech Mouse,Accessories,1,259.21,211.12,259.21,48.09
+2024-02-11,Newcastle,iPad 10,Tablets,3,1461.02,875.69,4383.06,1755.99
+2024-02-12,London,MacBook Pro M2,Laptops,3,984.9,569.76,2954.7,1245.42
+2024-02-13,Liverpool,AirPods Pro,Accessories,5,284.66,178.84,1423.3,529.1
+2024-02-14,Newcastle,iPhone 14,Smartphones,4,773.04,558.69,3092.16,857.4
+2024-02-15,London,Nintendo JoyCon,Gaming,3,662.9,412.67,1988.7,750.69
+2024-02-16,Birmingham,AirPods Pro,Accessories,5,360.67,243.35,1803.35,586.6
+2024-02-17,Newcastle,iPad 10,Tablets,1,1491.93,991.36,1491.93,500.57
+2024-02-18,London,Nintendo JoyCon,Gaming,4,42.88,35.37,171.52,30.04
+2024-02-19,Leeds,Nintendo JoyCon,Gaming,4,1282.45,773.39,5129.8,2036.24
+2024-02-20,Manchester,Samsung S22,Smartphones,2,844.07,698.6,1688.14,290.94
+2024-02-21,Manchester,iPad Pro,Tablets,2,396.16,239.02,792.32,314.28
+2024-02-22,Leeds,iPhone 14,Smartphones,1,1059.68,663.17,1059.68,396.51
+2024-02-23,Birmingham,MacBook Pro M2,Laptops,3,399.19,285.03,1197.57,342.48
+2024-02-24,Newcastle,MacBook Air M1,Laptops,4,1201.48,874.06,4805.92,1309.68
+2024-02-25,Newcastle,Logitech Mouse,Accessories,4,876.72,572.91,3506.88,1215.24
+2024-02-26,Manchester,iPad 10,Tablets,2,823.11,494.1,1646.22,658.02
+2024-02-27,Liverpool,MacBook Air M1,Laptops,4,77.48,46.96,309.92,122.08
+2024-02-28,Birmingham,USB-C Cable,Accessories,1,1245.25,740.97,1245.25,504.28
+2024-02-29,Liverpool,Gaming Headset,Gaming,5,307.68,198.14,1538.4,547.7
+2024-03-01,London,USB-C Cable,Accessories,2,784.12,480.69,1568.24,606.86
+2024-03-02,Leeds,Amazon Fire HD,Tablets,2,136.12,69.27,272.24,133.7
+2024-03-03,Manchester,Samsung A54,Smartphones,5,106.13,87.06,530.65,95.35
+2024-03-04,Leeds,Xiaomi Mi 12,Smartphones,5,964.64,656.77,4823.2,1539.35
+2024-03-05,Newcastle,Nintendo JoyCon,Gaming,4,857.74,476.5,3430.96,1524.96
+2024-03-06,Newcastle,Xiaomi Mi 12,Smartphones,4,88.08,45.3,352.32,171.12
+2024-03-07,Leeds,USB-C Cable,Accessories,4,45.4,34.83,181.6,42.28
+2024-03-08,Leeds,AirPods Pro,Accessories,5,609.79,436.33,3048.95,867.3
+2024-03-09,Manchester,Samsung Buds,Accessories,4,574.43,413.04,2297.72,645.56
+2024-03-10,Manchester,Xiaomi Mi 12,Smartphones,5,261.14,137.02,1305.7,620.6
+2024-03-11,Liverpool,Samsung A54,Smartphones,3,1205.4,888.39,3616.2,951.03
+2024-03-12,Birmingham,AirPods Pro,Accessories,1,1220.58,960.87,1220.58,259.71
+2024-03-13,Leeds,iPad 10,Tablets,1,984.2,563.3,984.2,420.9
+2024-03-14,London,Gaming Headset,Gaming,2,77.67,55.64,155.34,44.06
+2024-03-15,Liverpool,Lenovo ThinkPad,Laptops,2,1028.79,637.05,2057.58,783.48
+2024-03-16,Leeds,Samsung A54,Smartphones,2,1051.17,756.98,2102.34,588.38
+2024-03-17,Leeds,AirPods Pro,Accessories,5,1452.02,1004.49,7260.1,2237.65
+2024-03-18,London,Samsung S22,Smartphones,1,1102.84,600.71,1102.84,502.13
+2024-03-19,Liverpool,Gaming Headset,Gaming,1,1026.17,778.83,1026.17,247.34
+2024-03-20,Newcastle,iPhone 14,Smartphones,1,767.77,605.97,767.77,161.8
+2024-03-21,London,Nintendo JoyCon,Gaming,3,596.02,300.27,1788.06,887.25
+2024-03-22,Birmingham,Amazon Fire HD,Tablets,1,492.58,410.08,492.58,82.5
+2024-03-23,Birmingham,iPad Pro,Tablets,5,155.72,110.69,778.6,225.15
+2024-03-24,Leeds,Lenovo Tab M10,Tablets,4,1420.37,1098.59,5681.48,1287.12
+2024-03-25,Leeds,Xbox Controller,Gaming,2,105.19,72.83,210.38,64.72
+2024-03-26,London,Lenovo Tab M10,Tablets,3,1064.63,893.25,3193.89,514.14
+2024-03-27,Newcastle,MacBook Pro M2,Laptops,4,1302.97,1033.87,5211.88,1076.4
+2024-03-28,Leeds,Xbox Controller,Gaming,1,1236.35,923.78,1236.35,312.57
+2024-03-29,Newcastle,Steam Gift Card,Gaming,3,880.33,706.11,2640.99,522.66
+2024-03-30,Birmingham,AirPods Pro,Accessories,1,896.0,557.83,896.0,338.17
+2024-03-31,Manchester,Lenovo Tab M10,Tablets,4,846.44,548.9,3385.76,1190.16
+2024-04-01,Manchester,Samsung Tab S9,Tablets,5,36.8,24.44,184.0,61.8
+2024-04-02,Liverpool,Anker Charger,Accessories,5,1237.73,941.26,6188.65,1482.35
+2024-04-03,London,Gaming Headset,Gaming,1,574.81,344.89,574.81,229.92
+2024-04-04,Leeds,Xbox Controller,Gaming,4,1467.29,1019.18,5869.16,1792.44
+2024-04-05,Birmingham,Nintendo JoyCon,Gaming,4,129.22,89.66,516.88,158.24
+2024-04-06,London,iPhone 15,Smartphones,1,340.88,205.58,340.88,135.3
+2024-04-07,Newcastle,Nintendo JoyCon,Gaming,1,1374.58,1148.52,1374.58,226.06
+2024-04-08,Manchester,Anker Charger,Accessories,5,430.52,243.61,2152.6,934.55
+2024-04-09,Birmingham,HP Pavilion,Laptops,2,413.59,258.96,827.18,309.26
+2024-04-10,Birmingham,iPad 10,Tablets,1,478.1,375.23,478.1,102.87
+2024-04-11,Leeds,Steam Gift Card,Gaming,3,1237.36,1030.02,3712.08,622.02
+2024-04-12,Leeds,iPhone 15,Smartphones,2,1400.44,1124.72,2800.88,551.44
+2024-04-13,Liverpool,PS5 Controller,Gaming,1,730.95,617.54,730.95,113.41
+2024-04-14,Leeds,Xbox Controller,Gaming,1,1455.47,1156.72,1455.47,298.75
+2024-04-15,Newcastle,iPhone 15,Smartphones,1,633.93,377.63,633.93,256.3
+2024-04-16,Leeds,AirPods Pro,Accessories,5,1499.58,1272.88,7497.9,1133.5
+2024-04-17,Leeds,Steam Gift Card,Gaming,5,1140.48,721.07,5702.4,2097.05
+2024-04-18,London,iPhone 14,Smartphones,3,426.6,244.24,1279.8,547.08
+2024-04-19,Manchester,iPhone 15,Smartphones,4,417.64,212.06,1670.56,822.32
+2024-04-20,Birmingham,Dell XPS 13,Laptops,3,475.51,373.62,1426.53,305.67
+2024-04-21,Leeds,Nintendo JoyCon,Gaming,1,893.13,596.63,893.13,296.5
+2024-04-22,Birmingham,Xbox Controller,Gaming,3,335.19,183.59,1005.57,454.8
+2024-04-23,Liverpool,MacBook Pro M2,Laptops,2,962.23,667.97,1924.46,588.52
+2024-04-24,Birmingham,HP Pavilion,Laptops,1,780.7,604.48,780.7,176.22
+2024-04-25,London,Dell XPS 13,Laptops,1,1425.29,786.01,1425.29,639.28
+2024-04-26,Newcastle,MacBook Air M1,Laptops,4,118.03,60.91,472.12,228.48
+2024-04-27,Liverpool,Xbox Controller,Gaming,5,329.51,231.61,1647.55,489.5
+2024-04-28,Birmingham,iPad 10,Tablets,3,225.46,163.3,676.38,186.48
+2024-04-29,Leeds,Samsung S22,Smartphones,3,782.55,657.8,2347.65,374.25
+2024-04-30,Manchester,Dell XPS 13,Laptops,3,1236.25,767.44,3708.75,1406.43
+2024-05-01,Newcastle,Steam Gift Card,Gaming,1,810.95,506.52,810.95,304.43
+2024-05-02,London,MacBook Air M1,Laptops,2,1041.78,535.22,2083.56,1013.12
+2024-05-03,London,Samsung S22,Smartphones,5,23.84,19.17,119.2,23.35
+2024-05-04,Newcastle,Lenovo Tab M10,Tablets,4,329.84,207.69,1319.36,488.6
+2024-05-05,Liverpool,HP Pavilion,Laptops,2,1126.26,577.59,2252.52,1097.34
+2024-05-06,Liverpool,Samsung Tab S9,Tablets,4,178.61,117.27,714.44,245.36
+2024-05-07,London,iPad 10,Tablets,5,289.78,202.09,1448.9,438.45
+2024-05-08,Birmingham,HP Pavilion,Laptops,1,1337.98,946.97,1337.98,391.01
+2024-05-09,Newcastle,Dell XPS 13,Laptops,1,757.69,401.9,757.69,355.79
+2024-05-10,Newcastle,MacBook Air M1,Laptops,4,208.82,125.15,835.28,334.68
+2024-05-11,Newcastle,Samsung Buds,Accessories,2,381.64,257.37,763.28,248.54
+2024-05-12,Newcastle,PS5 Controller,Gaming,1,31.15,18.03,31.15,13.12
+2024-05-13,Leeds,Logitech Mouse,Accessories,1,138.75,94.85,138.75,43.9
+2024-05-14,Newcastle,Samsung Buds,Accessories,4,1454.82,1168.11,5819.28,1146.84
+2024-05-15,Manchester,Samsung S22,Smartphones,1,1083.32,744.53,1083.32,338.79
+2024-05-16,Birmingham,Lenovo Tab M10,Tablets,4,323.51,271.36,1294.04,208.6
+2024-05-17,London,Amazon Fire HD,Tablets,1,1109.65,760.6,1109.65,349.05
+2024-05-18,Liverpool,Lenovo ThinkPad,Laptops,3,1399.38,856.74,4198.14,1627.92
+2024-05-19,Manchester,iPhone 15,Smartphones,2,831.93,575.8,1663.86,512.26
+2024-05-20,London,Xbox Controller,Gaming,4,396.87,293.1,1587.48,415.08
+2024-05-21,Newcastle,Samsung S22,Smartphones,3,536.33,442.65,1608.99,281.04
+2024-05-22,London,Anker Charger,Accessories,2,203.96,154.15,407.92,99.62
+2024-05-23,Newcastle,HP Pavilion,Laptops,3,118.41,89.92,355.23,85.47
+2024-05-24,Newcastle,USB-C Cable,Accessories,3,1197.0,682.97,3591.0,1542.09
+2024-05-25,Manchester,Lenovo Tab M10,Tablets,5,1225.57,898.12,6127.85,1637.25
+2024-05-26,Newcastle,AirPods Pro,Accessories,5,890.69,658.26,4453.45,1162.15
+2024-05-27,London,Lenovo Tab M10,Tablets,1,1126.46,761.43,1126.46,365.03
+2024-05-28,Liverpool,iPhone 14,Smartphones,2,824.46,673.8,1648.92,301.32
+2024-05-29,Leeds,Samsung Tab S9,Tablets,3,515.66,282.97,1546.98,698.07
+2024-05-30,London,Samsung A54,Smartphones,3,1187.12,656.58,3561.36,1591.62
+2024-05-31,Newcastle,Steam Gift Card,Gaming,3,1121.04,573.68,3363.12,1642.08
+2024-06-01,Newcastle,MacBook Pro M2,Laptops,5,1317.61,816.56,6588.05,2505.25
+2024-06-02,Leeds,Gaming Headset,Gaming,5,208.68,133.36,1043.4,376.6
+2024-06-03,Liverpool,Steam Gift Card,Gaming,4,1088.93,818.89,4355.72,1080.16
+2024-06-04,Birmingham,Amazon Fire HD,Tablets,4,1079.95,766.4,4319.8,1254.2
+2024-06-05,Leeds,iPad Pro,Tablets,2,1421.98,787.31,2843.96,1269.34
+2024-06-06,Birmingham,MacBook Air M1,Laptops,1,46.8,37.69,46.8,9.11
+2024-06-07,Manchester,Anker Charger,Accessories,4,1189.33,604.25,4757.32,2340.32
+2024-06-08,Newcastle,Samsung A54,Smartphones,2,122.0,64.3,244.0,115.4
+2024-06-09,Newcastle,Samsung S22,Smartphones,1,187.59,158.46,187.59,29.13
+2024-06-10,Leeds,AirPods Pro,Accessories,1,1307.45,891.15,1307.45,416.3
+2024-06-11,Manchester,Xiaomi Mi 12,Smartphones,1,324.26,251.54,324.26,72.72
+2024-06-12,Manchester,Samsung S22,Smartphones,4,815.35,670.18,3261.4,580.68
+2024-06-13,Liverpool,Dell XPS 13,Laptops,2,1379.31,973.07,2758.62,812.48
+2024-06-14,Birmingham,Logitech Mouse,Accessories,3,387.38,272.01,1162.14,346.11
+2024-06-15,Manchester,PS5 Controller,Gaming,1,1175.13,701.74,1175.13,473.39
+2024-06-16,London,Samsung Buds,Accessories,5,782.46,658.39,3912.3,620.35
+2024-06-17,London,Samsung A54,Smartphones,4,811.9,458.37,3247.6,1414.12
+2024-06-18,Newcastle,Nintendo JoyCon,Gaming,3,1203.68,749.03,3611.04,1363.95
+2024-06-19,Liverpool,PS5 Controller,Gaming,5,579.03,459.05,2895.15,599.9
+2024-06-20,Birmingham,MacBook Air M1,Laptops,3,690.87,472.23,2072.61,655.92
+2024-06-21,Leeds,iPhone 15,Smartphones,3,249.76,140.78,749.28,326.94
+2024-06-22,London,iPad Pro,Tablets,2,1348.2,922.58,2696.4,851.24
+2024-06-23,Liverpool,Samsung Buds,Accessories,5,623.82,432.37,3119.1,957.25
+2024-06-24,London,Lenovo Tab M10,Tablets,1,1203.88,677.17,1203.88,526.71
+2024-06-25,Newcastle,Samsung Buds,Accessories,3,379.89,285.98,1139.67,281.73
+2024-06-26,Manchester,Amazon Fire HD,Tablets,4,1008.77,576.76,4035.08,1728.04
+2024-06-27,Birmingham,MacBook Air M1,Laptops,5,59.27,33.4,296.35,129.35
+2024-06-28,Birmingham,Gaming Headset,Gaming,2,1341.15,1054.29,2682.3,573.72
+2024-06-29,Birmingham,iPad Pro,Tablets,2,557.33,285.34,1114.66,543.98
+2024-06-30,Birmingham,Steam Gift Card,Gaming,1,665.47,401.32,665.47,264.15
+2024-07-01,Newcastle,HP Pavilion,Laptops,1,1305.33,875.36,1305.33,429.97
+2024-07-02,Manchester,iPhone 15,Smartphones,3,778.44,591.3,2335.32,561.42
+2024-07-03,Birmingham,PS5 Controller,Gaming,1,226.25,179.24,226.25,47.01
+2024-07-04,Liverpool,MacBook Pro M2,Laptops,5,274.09,163.17,1370.45,554.6
+2024-07-05,London,Lenovo ThinkPad,Laptops,2,873.24,520.38,1746.48,705.72
+2024-07-06,Newcastle,PS5 Controller,Gaming,2,1085.9,583.46,2171.8,1004.88
+2024-07-07,Manchester,Nintendo JoyCon,Gaming,1,414.42,313.41,414.42,101.01
+2024-07-08,London,USB-C Cable,Accessories,1,751.53,526.56,751.53,224.97
+2024-07-09,Manchester,Lenovo ThinkPad,Laptops,4,1160.95,751.96,4643.8,1635.96
+2024-07-10,Manchester,Logitech Mouse,Accessories,1,142.54,101.36,142.54,41.18
+2024-07-11,London,Steam Gift Card,Gaming,3,447.27,279.31,1341.81,503.88
+2024-07-12,Newcastle,Samsung Tab S9,Tablets,2,607.04,506.23,1214.08,201.62
+2024-07-13,Liverpool,PS5 Controller,Gaming,2,66.15,39.15,132.3,54.0
+2024-07-14,Manchester,Logitech Mouse,Accessories,1,754.62,534.95,754.62,219.67
+2024-07-15,London,iPhone 15,Smartphones,2,177.77,93.56,355.54,168.42
+2024-07-16,Liverpool,iPhone 14,Smartphones,5,1038.84,677.52,5194.2,1806.6
+2024-07-17,Newcastle,iPad Pro,Tablets,5,23.46,19.68,117.3,18.9
+2024-07-18,London,HP Pavilion,Laptops,3,485.6,380.03,1456.8,316.71
+2024-07-19,Birmingham,PS5 Controller,Gaming,2,1042.03,711.14,2084.06,661.78
+2024-07-20,Newcastle,Lenovo Tab M10,Tablets,1,995.0,738.59,995.0,256.41
+2024-07-21,London,iPhone 15,Smartphones,1,977.06,725.58,977.06,251.48
+2024-07-22,Manchester,Xbox Controller,Gaming,2,890.63,756.83,1781.26,267.6
+2024-07-23,Manchester,Xbox Controller,Gaming,5,1101.92,625.24,5509.6,2383.4
+2024-07-24,Liverpool,Lenovo Tab M10,Tablets,2,1122.7,582.92,2245.4,1079.56
+2024-07-25,Liverpool,Dell XPS 13,Laptops,2,973.93,708.59,1947.86,530.68
+2024-07-26,Manchester,Anker Charger,Accessories,5,133.89,99.57,669.45,171.6
+2024-07-27,Manchester,AirPods Pro,Accessories,4,1190.27,727.93,4761.08,1849.36
+2024-07-28,Liverpool,Xiaomi Mi 12,Smartphones,2,1317.46,851.25,2634.92,932.42
+2024-07-29,Liverpool,MacBook Pro M2,Laptops,3,1314.56,900.64,3943.68,1241.76
+2024-07-30,Leeds,Amazon Fire HD,Tablets,5,1155.44,740.26,5777.2,2075.9
+2024-07-31,London,AirPods Pro,Accessories,4,1476.44,1135.23,5905.76,1364.84
+2024-08-01,Newcastle,USB-C Cable,Accessories,1,373.39,201.13,373.39,172.26
+2024-08-02,London,HP Pavilion,Laptops,2,365.74,188.26,731.48,354.96
+2024-08-03,Liverpool,PS5 Controller,Gaming,1,599.61,325.92,599.61,273.69
+2024-08-04,Newcastle,Lenovo ThinkPad,Laptops,5,403.29,284.72,2016.45,592.85
+2024-08-05,Liverpool,Lenovo Tab M10,Tablets,2,267.21,226.3,534.42,81.82
+2024-08-06,Liverpool,USB-C Cable,Accessories,5,1249.35,677.3,6246.75,2860.25
+2024-08-07,Newcastle,MacBook Air M1,Laptops,2,74.36,62.09,148.72,24.54
+2024-08-08,London,Steam Gift Card,Gaming,1,787.03,558.04,787.03,228.99
+2024-08-09,London,Nintendo JoyCon,Gaming,2,782.57,525.82,1565.14,513.5
+2024-08-10,London,Samsung Tab S9,Tablets,5,351.25,241.64,1756.25,548.05
+2024-08-11,Liverpool,USB-C Cable,Accessories,2,697.0,443.93,1394.0,506.14
+2024-08-12,Manchester,USB-C Cable,Accessories,1,85.68,68.4,85.68,17.28
+2024-08-13,Birmingham,iPhone 14,Smartphones,5,1108.11,663.19,5540.55,2224.6
+2024-08-14,Leeds,Lenovo Tab M10,Tablets,2,808.25,676.3,1616.5,263.9
+2024-08-15,Newcastle,USB-C Cable,Accessories,5,1279.79,861.68,6398.95,2090.55
+2024-08-16,Liverpool,Nintendo JoyCon,Gaming,2,865.55,633.36,1731.1,464.38
+2024-08-17,Birmingham,Steam Gift Card,Gaming,1,1320.37,1028.7,1320.37,291.67
+2024-08-18,Leeds,Samsung S22,Smartphones,3,257.39,158.78,772.17,295.83
+2024-08-19,Birmingham,Xiaomi Mi 12,Smartphones,2,176.63,131.53,353.26,90.2
+2024-08-20,Manchester,Nintendo JoyCon,Gaming,5,1310.33,668.58,6551.65,3208.75
+2024-08-21,Birmingham,Dell XPS 13,Laptops,5,1120.39,623.23,5601.95,2485.8
+2024-08-22,Leeds,Lenovo ThinkPad,Laptops,5,402.86,228.66,2014.3,871.0
+2024-08-23,Birmingham,iPad 10,Tablets,1,955.08,564.39,955.08,390.69
+2024-08-24,Manchester,Nintendo JoyCon,Gaming,3,1146.32,790.32,3438.96,1068.0
+2024-08-25,Birmingham,Anker Charger,Accessories,5,171.71,142.18,858.55,147.65
+2024-08-26,London,HP Pavilion,Laptops,3,266.24,204.96,798.72,183.84
+2024-08-27,Newcastle,MacBook Air M1,Laptops,2,130.55,104.22,261.1,52.66
+2024-08-28,Birmingham,Gaming Headset,Gaming,4,978.41,692.75,3913.64,1142.64
+2024-08-29,Liverpool,Nintendo JoyCon,Gaming,1,498.94,334.8,498.94,164.14
+2024-08-30,Birmingham,iPad Pro,Tablets,2,255.23,169.47,510.46,171.52
+2024-08-31,Leeds,Samsung S22,Smartphones,5,1284.23,879.0,6421.15,2026.15
+2024-09-01,Birmingham,Nintendo JoyCon,Gaming,4,1263.12,973.22,5052.48,1159.6
+2024-09-02,Birmingham,Samsung Tab S9,Tablets,3,1427.28,789.1,4281.84,1914.54
+2024-09-03,London,Steam Gift Card,Gaming,5,965.02,616.8,4825.1,1741.1
+2024-09-04,Manchester,Nintendo JoyCon,Gaming,3,625.81,508.74,1877.43,351.21
+2024-09-05,Birmingham,Nintendo JoyCon,Gaming,1,984.47,619.22,984.47,365.25
+2024-09-06,Liverpool,Amazon Fire HD,Tablets,1,1305.56,1007.64,1305.56,297.92
+2024-09-07,Birmingham,HP Pavilion,Laptops,3,1199.26,723.1,3597.78,1428.48
+2024-09-08,Newcastle,Dell XPS 13,Laptops,4,1198.88,801.49,4795.52,1589.56
+2024-09-09,London,Samsung A54,Smartphones,4,656.85,374.53,2627.4,1129.28
+2024-09-10,Leeds,USB-C Cable,Accessories,5,893.59,582.3,4467.95,1556.45
+2024-09-11,Newcastle,Xiaomi Mi 12,Smartphones,2,1027.08,655.73,2054.16,742.7
+2024-09-12,Liverpool,Lenovo Tab M10,Tablets,1,1292.98,999.41,1292.98,293.57
+2024-09-13,Newcastle,iPad 10,Tablets,1,172.13,120.46,172.13,51.67
+2024-09-14,Birmingham,Anker Charger,Accessories,1,848.28,427.04,848.28,421.24
+2024-09-15,London,iPhone 15,Smartphones,1,150.04,93.43,150.04,56.61
+2024-09-16,Manchester,Gaming Headset,Gaming,2,607.45,331.94,1214.9,551.02
+2024-09-17,Liverpool,MacBook Pro M2,Laptops,2,80.95,59.47,161.9,42.96
+2024-09-18,London,Nintendo JoyCon,Gaming,3,66.75,55.25,200.25,34.5
+2024-09-19,Liverpool,HP Pavilion,Laptops,2,945.45,731.97,1890.9,426.96
+2024-09-20,Liverpool,Amazon Fire HD,Tablets,4,904.26,700.21,3617.04,816.2
+2024-09-21,Birmingham,Samsung A54,Smartphones,2,669.14,504.32,1338.28,329.64
+2024-09-22,Newcastle,USB-C Cable,Accessories,1,1310.24,755.65,1310.24,554.59
+2024-09-23,Liverpool,USB-C Cable,Accessories,5,1188.75,868.44,5943.75,1601.55
+2024-09-24,London,Samsung Buds,Accessories,2,986.83,608.19,1973.66,757.28
+2024-09-25,Leeds,Samsung Tab S9,Tablets,4,315.32,232.73,1261.28,330.36
+2024-09-26,Leeds,Samsung A54,Smartphones,1,1305.04,984.66,1305.04,320.38
+2024-09-27,Birmingham,USB-C Cable,Accessories,4,1108.32,851.97,4433.28,1025.4
+2024-09-28,Leeds,MacBook Air M1,Laptops,3,876.44,572.77,2629.32,911.01
+2024-09-29,Manchester,HP Pavilion,Laptops,2,904.63,703.38,1809.26,402.5
+2024-09-30,Leeds,Samsung Tab S9,Tablets,2,1370.3,786.18,2740.6,1168.24
+2024-10-01,Newcastle,Lenovo ThinkPad,Laptops,1,214.72,161.16,214.72,53.56
+2024-10-02,Leeds,HP Pavilion,Laptops,2,287.85,230.0,575.7,115.7
+2024-10-03,London,Samsung A54,Smartphones,5,679.05,461.88,3395.25,1085.85
+2024-10-04,Manchester,Samsung Buds,Accessories,1,598.8,502.57,598.8,96.23
+2024-10-05,Birmingham,Lenovo Tab M10,Tablets,5,501.28,386.34,2506.4,574.7
+2024-10-06,Manchester,Nintendo JoyCon,Gaming,2,128.78,72.04,257.56,113.48
+2024-10-07,Birmingham,Xbox Controller,Gaming,4,1246.75,811.4,4987.0,1741.4
+2024-10-08,Birmingham,Amazon Fire HD,Tablets,1,393.74,246.38,393.74,147.36
+2024-10-09,London,Samsung S22,Smartphones,5,547.96,376.3,2739.8,858.3
+2024-10-10,Liverpool,Samsung A54,Smartphones,4,1299.04,903.29,5196.16,1583.0
+2024-10-11,Leeds,Gaming Headset,Gaming,2,1480.31,803.87,2960.62,1352.88
+2024-10-12,Leeds,Samsung Buds,Accessories,5,967.2,559.67,4836.0,2037.65
+2024-10-13,Birmingham,Nintendo JoyCon,Gaming,5,172.9,121.83,864.5,255.35
+2024-10-14,Newcastle,HP Pavilion,Laptops,5,730.25,540.45,3651.25,949.0
+2024-10-15,Liverpool,MacBook Air M1,Laptops,2,1460.18,1026.56,2920.36,867.24
+2024-10-16,Birmingham,HP Pavilion,Laptops,4,206.1,112.62,824.4,373.92
+2024-10-17,London,MacBook Pro M2,Laptops,4,1016.68,853.47,4066.72,652.84
+2024-10-18,Liverpool,Steam Gift Card,Gaming,2,999.22,841.86,1998.44,314.72
+2024-10-19,London,MacBook Pro M2,Laptops,2,934.41,751.37,1868.82,366.08
+2024-10-20,Liverpool,Logitech Mouse,Accessories,1,1040.5,766.62,1040.5,273.88
+2024-10-21,Manchester,Steam Gift Card,Gaming,1,177.76,129.81,177.76,47.95
+2024-10-22,Leeds,iPhone 14,Smartphones,1,1490.14,1137.5,1490.14,352.64
+2024-10-23,Newcastle,PS5 Controller,Gaming,3,1320.2,846.84,3960.6,1420.08
+2024-10-24,Liverpool,Logitech Mouse,Accessories,2,1148.18,894.7,2296.36,506.96
+2024-10-25,London,Nintendo JoyCon,Gaming,1,197.91,136.67,197.91,61.24
+2024-10-26,Liverpool,PS5 Controller,Gaming,4,922.55,643.21,3690.2,1117.36
+2024-10-27,Liverpool,USB-C Cable,Accessories,1,902.8,623.83,902.8,278.97
+2024-10-28,Manchester,Samsung Buds,Accessories,3,913.1,670.1,2739.3,729.0
+2024-10-29,Manchester,MacBook Air M1,Laptops,3,822.7,685.32,2468.1,412.14
+2024-10-30,Manchester,USB-C Cable,Accessories,5,525.05,332.39,2625.25,963.3
+2024-10-31,Newcastle,Gaming Headset,Gaming,4,919.7,706.06,3678.8,854.56
+2024-11-01,Liverpool,HP Pavilion,Laptops,3,791.43,623.52,2374.29,503.73
+2024-11-02,Birmingham,Gaming Headset,Gaming,1,988.95,626.03,988.95,362.92
+2024-11-03,Leeds,Steam Gift Card,Gaming,3,170.1,113.98,510.3,168.36
+2024-11-04,Manchester,Logitech Mouse,Accessories,5,1208.48,832.29,6042.4,1880.95
+2024-11-05,London,Samsung Buds,Accessories,2,423.48,273.04,846.96,300.88
+2024-11-06,London,Amazon Fire HD,Tablets,2,1203.68,679.6,2407.36,1048.16
+2024-11-07,Newcastle,Lenovo ThinkPad,Laptops,2,1378.27,893.92,2756.54,968.7
+2024-11-08,Newcastle,Samsung A54,Smartphones,5,957.06,797.22,4785.3,799.2
+2024-11-09,Manchester,Gaming Headset,Gaming,1,1194.74,867.75,1194.74,326.99
+2024-11-10,Manchester,Xiaomi Mi 12,Smartphones,2,1352.03,843.26,2704.06,1017.54
+2024-11-11,Birmingham,Lenovo Tab M10,Tablets,4,426.71,336.21,1706.84,362.0
+2024-11-12,Manchester,MacBook Air M1,Laptops,2,1154.65,637.82,2309.3,1033.66
+2024-11-13,Leeds,PS5 Controller,Gaming,3,1306.5,869.49,3919.5,1311.03
+2024-11-14,Manchester,Xiaomi Mi 12,Smartphones,3,918.5,635.0,2755.5,850.5
+2024-11-15,Liverpool,Xiaomi Mi 12,Smartphones,5,106.51,58.54,532.55,239.85
+2024-11-16,London,Xbox Controller,Gaming,3,675.22,442.96,2025.66,696.78
+2024-11-17,Newcastle,Samsung S22,Smartphones,4,1231.69,875.89,4926.76,1423.2
+2024-11-18,Liverpool,Lenovo ThinkPad,Laptops,4,146.77,119.32,587.08,109.8
+2024-11-19,Leeds,iPhone 14,Smartphones,3,528.47,378.39,1585.41,450.24
+2024-11-20,Leeds,Samsung A54,Smartphones,2,1011.01,530.25,2022.02,961.52
+2024-11-21,Newcastle,Dell XPS 13,Laptops,4,500.01,308.28,2000.04,766.92
+2024-11-22,Newcastle,HP Pavilion,Laptops,2,557.16,472.7,1114.32,168.92
+2024-11-23,London,Anker Charger,Accessories,2,1437.29,806.83,2874.58,1260.92
+2024-11-24,Birmingham,MacBook Air M1,Laptops,4,534.41,391.57,2137.64,571.36
+2024-11-25,Birmingham,Lenovo Tab M10,Tablets,4,1461.76,741.13,5847.04,2882.52
+2024-11-26,Newcastle,AirPods Pro,Accessories,1,1013.91,539.93,1013.91,473.98
+2024-11-27,Manchester,MacBook Air M1,Laptops,5,1242.58,961.4,6212.9,1405.9
+2024-11-28,London,Gaming Headset,Gaming,1,356.49,220.88,356.49,135.61
+2024-11-29,Liverpool,Xbox Controller,Gaming,3,373.8,253.59,1121.4,360.63
+2024-11-30,Newcastle,Samsung Buds,Accessories,4,1312.54,730.58,5250.16,2327.84
+2024-12-01,London,Amazon Fire HD,Tablets,5,598.74,404.39,2993.7,971.75
+2024-12-02,Newcastle,MacBook Pro M2,Laptops,5,583.32,470.91,2916.6,562.05
+2024-12-03,Liverpool,Amazon Fire HD,Tablets,1,497.34,252.66,497.34,244.68
+2024-12-04,Manchester,Dell XPS 13,Laptops,2,1436.84,1006.6,2873.68,860.48
+2024-12-05,Newcastle,iPhone 15,Smartphones,1,729.44,444.82,729.44,284.62
+2024-12-06,London,Xiaomi Mi 12,Smartphones,4,763.8,488.47,3055.2,1101.32
+2024-12-07,London,Steam Gift Card,Gaming,2,120.9,61.54,241.8,118.72
+2024-12-08,Birmingham,USB-C Cable,Accessories,4,1169.55,634.73,4678.2,2139.28
+2024-12-09,Leeds,Gaming Headset,Gaming,2,431.07,344.0,862.14,174.14
+2024-12-10,Leeds,iPad Pro,Tablets,4,559.9,355.68,2239.6,816.88
+2024-12-11,Manchester,iPad Pro,Tablets,2,333.4,223.25,666.8,220.3
+2024-12-12,Birmingham,PS5 Controller,Gaming,3,272.58,143.41,817.74,387.51
+2024-12-13,London,Amazon Fire HD,Tablets,1,773.94,656.95,773.94,116.99
+2024-12-14,Newcastle,Gaming Headset,Gaming,4,277.15,202.18,1108.6,299.88
+2024-12-15,Liverpool,Lenovo ThinkPad,Laptops,4,619.1,451.28,2476.4,671.28
+2024-12-16,Manchester,Amazon Fire HD,Tablets,5,592.88,496.44,2964.4,482.2
+2024-12-17,Leeds,Lenovo Tab M10,Tablets,5,1145.23,627.57,5726.15,2588.3
+2024-12-18,Leeds,Xiaomi Mi 12,Smartphones,5,1254.77,903.75,6273.85,1755.1
+2024-12-19,London,Lenovo ThinkPad,Laptops,5,83.1,52.35,415.5,153.75
+2024-12-20,Manchester,Logitech Mouse,Accessories,5,1269.65,678.41,6348.25,2956.2
+2024-12-21,Liverpool,Samsung Buds,Accessories,4,380.35,276.93,1521.4,413.68
+2024-12-22,Manchester,Xiaomi Mi 12,Smartphones,4,1292.16,823.54,5168.64,1874.48
+2024-12-23,London,PS5 Controller,Gaming,1,171.18,125.05,171.18,46.13
+2024-12-24,Manchester,iPhone 15,Smartphones,4,133.1,79.56,532.4,214.16
+2024-12-25,Liverpool,HP Pavilion,Laptops,5,1241.2,835.83,6206.0,2026.85
+2024-12-26,Leeds,iPhone 14,Smartphones,4,686.92,555.62,2747.68,525.2
+2024-12-27,Liverpool,AirPods Pro,Accessories,5,90.79,46.6,453.95,220.95
+2024-12-28,Leeds,Xiaomi Mi 12,Smartphones,3,125.46,63.26,376.38,186.6
+2024-12-29,Birmingham,USB-C Cable,Accessories,2,703.68,596.06,1407.36,215.24
+2024-12-30,Leeds,Samsung Tab S9,Tablets,4,545.17,351.22,2180.68,775.8
+2024-12-31,London,HP Pavilion,Laptops,1,457.26,351.74,457.26,105.52
+2025-01-01,Birmingham,iPhone 15,Smartphones,2,35.43,20.88,70.86,29.1
+2025-01-02,Manchester,iPhone 14,Smartphones,1,804.85,414.24,804.85,390.61
+2025-01-03,Newcastle,Lenovo ThinkPad,Laptops,4,453.38,382.19,1813.52,284.76
+2025-01-04,London,Steam Gift Card,Gaming,4,251.82,129.76,1007.28,488.24
+2025-01-05,Manchester,MacBook Air M1,Laptops,1,576.47,399.22,576.47,177.25
+2025-01-06,Liverpool,iPhone 15,Smartphones,4,376.23,204.11,1504.92,688.48
+2025-01-07,London,Xiaomi Mi 12,Smartphones,3,1013.75,619.32,3041.25,1183.29
+2025-01-08,Newcastle,AirPods Pro,Accessories,2,961.38,555.07,1922.76,812.62
+2025-01-09,Leeds,Logitech Mouse,Accessories,3,418.61,288.36,1255.83,390.75
+2025-01-10,Manchester,MacBook Pro M2,Laptops,5,1034.24,550.38,5171.2,2419.3
+2025-01-11,London,Amazon Fire HD,Tablets,5,631.86,483.6,3159.3,741.3
+2025-01-12,London,Samsung Tab S9,Tablets,5,158.76,111.45,793.8,236.55
+2025-01-13,Leeds,Xbox Controller,Gaming,2,33.81,19.82,67.62,27.98
+2025-01-14,Manchester,iPad 10,Tablets,4,166.78,106.83,667.12,239.8
+2025-01-15,Liverpool,Dell XPS 13,Laptops,1,841.53,636.68,841.53,204.85
+2025-01-16,Birmingham,iPad Pro,Tablets,1,575.38,396.17,575.38,179.21
+2025-01-17,Newcastle,MacBook Pro M2,Laptops,2,72.26,54.99,144.52,34.54
+2025-01-18,Liverpool,iPhone 15,Smartphones,5,564.55,346.87,2822.75,1088.4
+2025-01-19,Birmingham,Lenovo Tab M10,Tablets,2,565.1,371.28,1130.2,387.64
+2025-01-20,Leeds,Dell XPS 13,Laptops,2,599.46,386.3,1198.92,426.32
+2025-01-21,Birmingham,HP Pavilion,Laptops,4,1195.41,636.61,4781.64,2235.2
+2025-01-22,Birmingham,Nintendo JoyCon,Gaming,5,878.38,611.81,4391.9,1332.85
+2025-01-23,London,MacBook Pro M2,Laptops,3,419.33,330.75,1257.99,265.74
+2025-01-24,Birmingham,Lenovo Tab M10,Tablets,4,1181.65,883.51,4726.6,1192.56
+2025-01-25,London,Lenovo Tab M10,Tablets,4,201.12,152.33,804.48,195.16
+2025-01-26,Liverpool,HP Pavilion,Laptops,1,905.37,685.8,905.37,219.57
+2025-01-27,Birmingham,Samsung A54,Smartphones,5,276.75,200.13,1383.75,383.1
+2025-01-28,Leeds,Amazon Fire HD,Tablets,3,1115.18,928.51,3345.54,560.01
+2025-01-29,Liverpool,Samsung A54,Smartphones,5,1469.88,819.98,7349.4,3249.5
+2025-01-30,Liverpool,Xiaomi Mi 12,Smartphones,1,1395.83,1080.24,1395.83,315.59
+2025-01-31,Leeds,Dell XPS 13,Laptops,2,1311.64,1042.33,2623.28,538.62
+2025-02-01,Newcastle,AirPods Pro,Accessories,5,698.12,467.07,3490.6,1155.25
+2025-02-02,Birmingham,HP Pavilion,Laptops,2,1365.9,1055.94,2731.8,619.92
+2025-02-03,London,Samsung A54,Smartphones,4,220.32,168.1,881.28,208.88
+2025-02-04,Liverpool,USB-C Cable,Accessories,4,86.0,44.09,344.0,167.64
+2025-02-05,London,Samsung Buds,Accessories,2,1270.29,754.36,2540.58,1031.86
+2025-02-06,London,Gaming Headset,Gaming,3,112.73,92.13,338.19,61.8
+2025-02-07,Manchester,Gaming Headset,Gaming,2,628.42,390.61,1256.84,475.62
+2025-02-08,Newcastle,Amazon Fire HD,Tablets,5,97.34,62.94,486.7,172.0
+2025-02-09,Manchester,Xiaomi Mi 12,Smartphones,2,1469.74,809.44,2939.48,1320.6
+2025-02-10,Birmingham,PS5 Controller,Gaming,3,476.87,396.5,1430.61,241.11
+2025-02-11,Manchester,Xiaomi Mi 12,Smartphones,1,52.61,39.56,52.61,13.05
+2025-02-12,Birmingham,iPhone 14,Smartphones,1,1471.16,852.67,1471.16,618.49
+2025-02-13,Manchester,Dell XPS 13,Laptops,1,1191.72,824.78,1191.72,366.94
+2025-02-14,London,MacBook Air M1,Laptops,2,265.35,220.5,530.7,89.7
+2025-02-15,Newcastle,MacBook Pro M2,Laptops,2,1295.74,856.56,2591.48,878.36
+2025-02-16,London,Anker Charger,Accessories,3,699.68,362.56,2099.04,1011.36
+2025-02-17,Newcastle,Gaming Headset,Gaming,2,508.72,389.1,1017.44,239.24
+2025-02-18,Manchester,Gaming Headset,Gaming,4,398.13,330.97,1592.52,268.64
+2025-02-19,Newcastle,Samsung Buds,Accessories,1,60.21,31.48,60.21,28.73
+2025-02-20,Birmingham,Amazon Fire HD,Tablets,1,598.28,466.31,598.28,131.97
+2025-02-21,Liverpool,Samsung S22,Smartphones,2,158.24,103.55,316.48,109.38
+2025-02-22,Leeds,Samsung Buds,Accessories,4,1193.42,837.97,4773.68,1421.8
+2025-02-23,Manchester,iPhone 15,Smartphones,2,682.45,474.46,1364.9,415.98
+2025-02-24,Newcastle,Lenovo Tab M10,Tablets,3,1347.84,753.58,4043.52,1782.78
+2025-02-25,Birmingham,Samsung A54,Smartphones,1,69.41,43.54,69.41,25.87
+2025-02-26,Liverpool,Lenovo Tab M10,Tablets,4,1201.92,1008.07,4807.68,775.4
+2025-02-27,Leeds,Samsung A54,Smartphones,3,767.71,643.72,2303.13,371.97
+2025-02-28,Manchester,Steam Gift Card,Gaming,5,498.06,422.84,2490.3,376.1
+2025-03-01,London,Samsung Tab S9,Tablets,5,848.44,580.83,4242.2,1338.05
+2025-03-02,Leeds,Samsung Buds,Accessories,2,137.52,103.97,275.04,67.1
+2025-03-03,Liverpool,USB-C Cable,Accessories,1,1232.21,849.34,1232.21,382.87
+2025-03-04,Birmingham,Anker Charger,Accessories,1,717.33,564.95,717.33,152.38
+2025-03-05,Newcastle,Xiaomi Mi 12,Smartphones,2,1232.5,995.78,2465.0,473.44
+2025-03-06,Leeds,Lenovo ThinkPad,Laptops,4,1242.45,664.99,4969.8,2309.84
+2025-03-07,Manchester,Amazon Fire HD,Tablets,2,534.95,351.8,1069.9,366.3
+2025-03-08,Liverpool,iPad 10,Tablets,1,1265.34,841.39,1265.34,423.95
+2025-03-09,Liverpool,iPad 10,Tablets,4,1114.16,598.55,4456.64,2062.44
+2025-03-10,Liverpool,AirPods Pro,Accessories,4,356.23,282.48,1424.92,295.0
+2025-03-11,Leeds,Samsung Buds,Accessories,1,338.98,212.25,338.98,126.73
+2025-03-12,Birmingham,iPad 10,Tablets,5,624.29,478.04,3121.45,731.25
+2025-03-13,Manchester,AirPods Pro,Accessories,1,1186.9,869.69,1186.9,317.21
+2025-03-14,Manchester,iPad 10,Tablets,3,20.28,11.34,60.84,26.82
+2025-03-15,Liverpool,USB-C Cable,Accessories,3,630.89,492.61,1892.67,414.84
+2025-03-16,Newcastle,AirPods Pro,Accessories,1,643.74,327.99,643.74,315.75
+2025-03-17,Birmingham,Samsung S22,Smartphones,3,1242.54,925.39,3727.62,951.45
+2025-03-18,Birmingham,USB-C Cable,Accessories,1,471.03,372.25,471.03,98.78
+2025-03-19,Newcastle,Amazon Fire HD,Tablets,5,820.23,437.83,4101.15,1912.0
+2025-03-20,Liverpool,iPhone 14,Smartphones,4,465.87,330.5,1863.48,541.48
+2025-03-21,Manchester,Samsung S22,Smartphones,1,91.25,74.46,91.25,16.79
+2025-03-22,Leeds,Xiaomi Mi 12,Smartphones,1,1483.76,1067.06,1483.76,416.7
+2025-03-23,Leeds,Samsung A54,Smartphones,3,416.31,323.14,1248.93,279.51
+2025-03-24,Leeds,Steam Gift Card,Gaming,4,345.93,232.1,1383.72,455.32
+2025-03-25,Manchester,PS5 Controller,Gaming,5,68.32,54.93,341.6,66.95
+2025-03-26,London,Xiaomi Mi 12,Smartphones,4,1367.8,906.24,5471.2,1846.24
+2025-03-27,Liverpool,iPad Pro,Tablets,4,676.2,481.78,2704.8,777.68
+2025-03-28,Birmingham,AirPods Pro,Accessories,5,966.62,712.16,4833.1,1272.3
+2025-03-29,Manchester,Anker Charger,Accessories,4,741.75,540.2,2967.0,806.2
+2025-03-30,Newcastle,Dell XPS 13,Laptops,1,769.27,555.36,769.27,213.91
+2025-03-31,Liverpool,iPhone 15,Smartphones,1,78.85,56.1,78.85,22.75
+2025-04-01,London,Amazon Fire HD,Tablets,2,1457.87,898.01,2915.74,1119.72
+2025-04-02,Leeds,Samsung Tab S9,Tablets,5,721.95,510.28,3609.75,1058.35
+2025-04-03,Leeds,iPhone 14,Smartphones,3,1269.01,761.05,3807.03,1523.88
+2025-04-04,London,PS5 Controller,Gaming,2,454.36,375.35,908.72,158.02
+2025-04-05,Liverpool,PS5 Controller,Gaming,1,1230.95,844.51,1230.95,386.44
+2025-04-06,Newcastle,Xiaomi Mi 12,Smartphones,3,86.38,56.81,259.14,88.71
+2025-04-07,Leeds,PS5 Controller,Gaming,4,1100.19,889.82,4400.76,841.48
+2025-04-08,Manchester,Steam Gift Card,Gaming,4,1018.42,614.98,4073.68,1613.76
+2025-04-09,Newcastle,Samsung Buds,Accessories,5,22.32,16.13,111.6,30.95
+2025-04-10,Newcastle,PS5 Controller,Gaming,4,1036.15,559.59,4144.6,1906.24
+2025-04-11,Birmingham,Samsung A54,Smartphones,2,156.58,110.97,313.16,91.22
+2025-04-12,Manchester,iPhone 14,Smartphones,4,138.67,86.55,554.68,208.48
+2025-04-13,Manchester,PS5 Controller,Gaming,2,555.64,393.27,1111.28,324.74
+2025-04-14,Birmingham,Dell XPS 13,Laptops,1,926.61,746.66,926.61,179.95
+2025-04-15,Newcastle,Lenovo Tab M10,Tablets,2,804.39,635.59,1608.78,337.6
+2025-04-16,London,MacBook Air M1,Laptops,1,644.61,388.87,644.61,255.74
+2025-04-17,London,Xbox Controller,Gaming,5,202.04,140.52,1010.2,307.6
+2025-04-18,Liverpool,Samsung A54,Smartphones,5,1044.89,679.68,5224.45,1826.05
+2025-04-19,Birmingham,PS5 Controller,Gaming,5,1295.38,915.32,6476.9,1900.3
+2025-04-20,Liverpool,Dell XPS 13,Laptops,3,1289.19,1058.2,3867.57,692.97
+2025-04-21,Manchester,Dell XPS 13,Laptops,1,60.58,38.62,60.58,21.96
+2025-04-22,Birmingham,USB-C Cable,Accessories,4,86.27,66.14,345.08,80.52
+2025-04-23,Liverpool,Lenovo Tab M10,Tablets,2,975.82,705.44,1951.64,540.76
+2025-04-24,Manchester,Samsung Tab S9,Tablets,1,169.86,135.29,169.86,34.57
+2025-04-25,Manchester,Anker Charger,Accessories,1,175.78,98.19,175.78,77.59
+2025-04-26,Liverpool,Nintendo JoyCon,Gaming,3,1446.75,917.92,4340.25,1586.49
+2025-04-27,Leeds,Samsung Tab S9,Tablets,2,605.24,368.97,1210.48,472.54
+2025-04-28,Birmingham,Xbox Controller,Gaming,5,1256.51,791.15,6282.55,2326.8
+2025-04-29,Leeds,Nintendo JoyCon,Gaming,4,1492.39,1031.07,5969.56,1845.28
+2025-04-30,Newcastle,Nintendo JoyCon,Gaming,4,65.79,55.25,263.16,42.16
+2025-05-01,Leeds,USB-C Cable,Accessories,5,727.26,499.11,3636.3,1140.75
+2025-05-02,Leeds,Nintendo JoyCon,Gaming,3,547.15,431.91,1641.45,345.72
+2025-05-03,Leeds,iPad Pro,Tablets,1,771.02,568.31,771.02,202.71
+2025-05-04,Leeds,Logitech Mouse,Accessories,4,533.97,375.47,2135.88,634.0
+2025-05-05,London,Lenovo Tab M10,Tablets,2,743.57,476.35,1487.14,534.44
+2025-05-06,Manchester,Amazon Fire HD,Tablets,2,942.64,659.17,1885.28,566.94
+2025-05-07,Leeds,Lenovo Tab M10,Tablets,5,239.02,190.83,1195.1,240.95
+2025-05-08,Leeds,Logitech Mouse,Accessories,3,1365.99,1028.25,4097.97,1013.22
+2025-05-09,Birmingham,USB-C Cable,Accessories,3,833.0,433.33,2499.0,1199.01
+2025-05-10,Manchester,iPhone 15,Smartphones,4,1455.02,1210.85,5820.08,976.68
+2025-05-11,Manchester,Anker Charger,Accessories,4,1298.05,916.5,5192.2,1526.2
+2025-05-12,Liverpool,Logitech Mouse,Accessories,1,852.81,558.1,852.81,294.71
+2025-05-13,Newcastle,iPad 10,Tablets,3,874.37,702.08,2623.11,516.87
+2025-05-14,Birmingham,iPad Pro,Tablets,4,1244.73,955.44,4978.92,1157.16
+2025-05-15,London,Nintendo JoyCon,Gaming,1,108.02,54.13,108.02,53.89
+2025-05-16,Leeds,iPhone 14,Smartphones,3,481.61,283.97,1444.83,592.92
+2025-05-17,Liverpool,Steam Gift Card,Gaming,2,725.73,537.55,1451.46,376.36
+2025-05-18,Birmingham,iPad Pro,Tablets,2,956.17,693.76,1912.34,524.82
+2025-05-19,Liverpool,MacBook Air M1,Laptops,3,331.84,277.12,995.52,164.16
+2025-05-20,Liverpool,iPad Pro,Tablets,2,1246.13,751.56,2492.26,989.14
+2025-05-21,Leeds,Samsung A54,Smartphones,1,956.7,501.46,956.7,455.24
+2025-05-22,Manchester,Gaming Headset,Gaming,1,1153.85,918.55,1153.85,235.3
+2025-05-23,Liverpool,iPhone 15,Smartphones,4,622.52,325.64,2490.08,1187.52
+2025-05-24,Leeds,Amazon Fire HD,Tablets,5,1422.58,747.3,7112.9,3376.4
+2025-05-25,Manchester,Samsung Tab S9,Tablets,2,133.76,90.32,267.52,86.88
+2025-05-26,Birmingham,Anker Charger,Accessories,2,127.89,81.98,255.78,91.82
+2025-05-27,London,Dell XPS 13,Laptops,3,52.6,37.04,157.8,46.68
+2025-05-28,Liverpool,iPhone 14,Smartphones,5,69.83,40.16,349.15,148.35
+2025-05-29,Manchester,iPhone 14,Smartphones,1,1085.29,871.95,1085.29,213.34
+2025-05-30,Manchester,HP Pavilion,Laptops,4,962.89,658.81,3851.56,1216.32
+2025-05-31,Birmingham,Anker Charger,Accessories,5,1209.86,838.89,6049.3,1854.85
+2025-06-01,Manchester,Nintendo JoyCon,Gaming,2,614.14,341.17,1228.28,545.94
+2025-06-02,London,MacBook Pro M2,Laptops,3,421.89,270.37,1265.67,454.56
+2025-06-03,Newcastle,iPhone 15,Smartphones,5,89.34,53.31,446.7,180.15
+2025-06-04,Leeds,iPhone 15,Smartphones,1,523.75,434.27,523.75,89.48
+2025-06-05,Liverpool,Logitech Mouse,Accessories,1,553.15,328.92,553.15,224.23
+2025-06-06,Leeds,HP Pavilion,Laptops,4,1187.62,964.53,4750.48,892.36
+2025-06-07,Manchester,iPad 10,Tablets,4,1019.21,550.99,4076.84,1872.88
+2025-06-08,Manchester,PS5 Controller,Gaming,4,956.41,713.82,3825.64,970.36
+2025-06-09,Birmingham,Steam Gift Card,Gaming,3,1006.25,843.35,3018.75,488.7
+2025-06-10,Leeds,iPad 10,Tablets,4,1059.76,640.43,4239.04,1677.32
+2025-06-11,Leeds,Logitech Mouse,Accessories,3,973.34,503.09,2920.02,1410.75
+2025-06-12,Newcastle,AirPods Pro,Accessories,3,697.4,399.69,2092.2,893.13
+2025-06-13,Manchester,Amazon Fire HD,Tablets,1,97.49,74.94,97.49,22.55
+2025-06-14,London,Steam Gift Card,Gaming,4,1278.52,734.12,5114.08,2177.6
+2025-06-15,Manchester,iPad 10,Tablets,4,1023.16,729.22,4092.64,1175.76
+2025-06-16,Birmingham,Samsung A54,Smartphones,2,1110.9,934.39,2221.8,353.02
+2025-06-17,Liverpool,Gaming Headset,Gaming,1,1337.52,803.31,1337.52,534.21
+2025-06-18,Birmingham,PS5 Controller,Gaming,1,185.04,125.93,185.04,59.11
+2025-06-19,Newcastle,Xbox Controller,Gaming,5,581.06,359.14,2905.3,1109.6
+2025-06-20,Newcastle,Samsung A54,Smartphones,2,66.5,50.39,133.0,32.22
+2025-06-21,Birmingham,Samsung A54,Smartphones,4,34.69,22.98,138.76,46.84
+2025-06-22,Birmingham,HP Pavilion,Laptops,2,1022.76,623.02,2045.52,799.48
+2025-06-23,Manchester,Samsung A54,Smartphones,2,1288.55,903.76,2577.1,769.58
+2025-06-24,Leeds,iPad 10,Tablets,2,288.97,188.53,577.94,200.88
+2025-06-25,Birmingham,iPhone 14,Smartphones,2,350.43,253.94,700.86,192.98
+2025-06-26,Liverpool,Lenovo Tab M10,Tablets,4,831.61,671.72,3326.44,639.56
+2025-06-27,Leeds,Samsung S22,Smartphones,1,917.1,552.0,917.1,365.1
+2025-06-28,Manchester,Amazon Fire HD,Tablets,3,1071.0,886.88,3213.0,552.36
+2025-06-29,Manchester,USB-C Cable,Accessories,4,721.24,375.22,2884.96,1384.08
+2025-06-30,Birmingham,Xiaomi Mi 12,Smartphones,4,825.83,691.19,3303.32,538.56
+2025-07-01,London,iPhone 14,Smartphones,3,1093.93,784.25,3281.79,929.04
+2025-07-02,Leeds,MacBook Air M1,Laptops,2,486.42,290.24,972.84,392.36
+2025-07-03,Birmingham,Gaming Headset,Gaming,4,971.37,761.02,3885.48,841.4
+2025-07-04,Manchester,AirPods Pro,Accessories,1,1041.2,772.08,1041.2,269.12
+2025-07-05,London,Gaming Headset,Gaming,4,360.77,186.01,1443.08,699.04
+2025-07-06,Leeds,Dell XPS 13,Laptops,2,378.0,255.23,756.0,245.54
+2025-07-07,Liverpool,Xbox Controller,Gaming,2,286.86,189.47,573.72,194.78
+2025-07-08,Liverpool,Gaming Headset,Gaming,5,93.97,74.73,469.85,96.2
+2025-07-09,London,Xbox Controller,Gaming,3,599.95,438.38,1799.85,484.71
+2025-07-10,Manchester,Logitech Mouse,Accessories,4,1492.33,1117.91,5969.32,1497.68
+2025-07-11,Newcastle,Samsung A54,Smartphones,3,699.27,574.65,2097.81,373.86
+2025-07-12,Leeds,MacBook Pro M2,Laptops,4,1247.5,943.41,4990.0,1216.36
+2025-07-13,Manchester,MacBook Air M1,Laptops,3,604.9,504.19,1814.7,302.13
+2025-07-14,London,Xbox Controller,Gaming,4,386.06,279.59,1544.24,425.88
+2025-07-15,London,Amazon Fire HD,Tablets,2,1162.01,783.91,2324.02,756.2
+2025-07-16,Manchester,Xbox Controller,Gaming,4,548.4,451.97,2193.6,385.72
+2025-07-17,Liverpool,Lenovo Tab M10,Tablets,2,496.07,395.28,992.14,201.58
+2025-07-18,Leeds,Nintendo JoyCon,Gaming,1,616.09,500.96,616.09,115.13
+2025-07-19,Manchester,HP Pavilion,Laptops,1,247.63,209.63,247.63,38.0
+2025-07-20,Birmingham,iPad 10,Tablets,1,1146.29,722.28,1146.29,424.01
+2025-07-21,Manchester,USB-C Cable,Accessories,3,105.4,69.09,316.2,108.93
+2025-07-22,Liverpool,iPhone 15,Smartphones,5,391.48,273.03,1957.4,592.25
+2025-07-23,Leeds,HP Pavilion,Laptops,1,375.79,213.09,375.79,162.7
+2025-07-24,Leeds,Anker Charger,Accessories,2,1262.93,963.77,2525.86,598.32
+2025-07-25,London,MacBook Air M1,Laptops,1,239.3,176.57,239.3,62.73
+2025-07-26,Leeds,Gaming Headset,Gaming,5,1084.36,755.98,5421.8,1641.9
+2025-07-27,Manchester,Amazon Fire HD,Tablets,2,1262.7,694.91,2525.4,1135.58
+2025-07-28,Manchester,Steam Gift Card,Gaming,4,1238.28,1004.38,4953.12,935.6
+2025-07-29,Newcastle,USB-C Cable,Accessories,5,397.86,240.11,1989.3,788.75
+2025-07-30,Leeds,AirPods Pro,Accessories,3,122.13,101.28,366.39,62.55
+2025-07-31,Manchester,Samsung S22,Smartphones,3,1257.02,774.66,3771.06,1447.08
+2025-08-01,Leeds,Xbox Controller,Gaming,4,244.36,197.09,977.44,189.08
+2025-08-02,London,USB-C Cable,Accessories,5,599.9,414.74,2999.5,925.8
+2025-08-03,London,Xiaomi Mi 12,Smartphones,1,110.77,69.43,110.77,41.34
+2025-08-04,Newcastle,Lenovo ThinkPad,Laptops,5,667.47,539.95,3337.35,637.6
+2025-08-05,London,Anker Charger,Accessories,4,351.95,257.65,1407.8,377.2
+2025-08-06,London,Steam Gift Card,Gaming,2,468.34,287.49,936.68,361.7
+2025-08-07,Newcastle,Samsung Tab S9,Tablets,1,568.99,464.11,568.99,104.88
+2025-08-08,Manchester,USB-C Cable,Accessories,5,241.41,152.87,1207.05,442.7
+2025-08-09,Liverpool,Dell XPS 13,Laptops,2,1175.33,827.81,2350.66,695.04
+2025-08-10,London,MacBook Air M1,Laptops,1,910.3,549.64,910.3,360.66
+2025-08-11,London,Lenovo Tab M10,Tablets,5,171.72,116.74,858.6,274.9
+2025-08-12,Liverpool,Amazon Fire HD,Tablets,1,1400.73,1106.05,1400.73,294.68
+2025-08-13,Liverpool,iPhone 15,Smartphones,5,1295.3,771.9,6476.5,2617.0
+2025-08-14,Birmingham,Xiaomi Mi 12,Smartphones,1,531.11,327.94,531.11,203.17
+2025-08-15,Leeds,Nintendo JoyCon,Gaming,1,1057.73,798.03,1057.73,259.7
+2025-08-16,Birmingham,iPhone 14,Smartphones,3,734.1,497.23,2202.3,710.61
+2025-08-17,Newcastle,MacBook Air M1,Laptops,3,1177.61,640.07,3532.83,1612.62
+2025-08-18,Liverpool,MacBook Air M1,Laptops,2,667.74,388.79,1335.48,557.9
+2025-08-19,Leeds,Nintendo JoyCon,Gaming,1,810.75,558.82,810.75,251.93
+2025-08-20,Newcastle,Xiaomi Mi 12,Smartphones,3,733.75,397.31,2201.25,1009.32
+2025-08-21,London,Samsung Tab S9,Tablets,4,355.56,287.21,1422.24,273.4
+2025-08-22,Liverpool,Anker Charger,Accessories,4,449.27,361.66,1797.08,350.44
+2025-08-23,Liverpool,Xiaomi Mi 12,Smartphones,3,1279.01,1079.06,3837.03,599.85
+2025-08-24,Leeds,HP Pavilion,Laptops,4,296.63,150.37,1186.52,585.04
+2025-08-25,Leeds,Lenovo Tab M10,Tablets,3,629.25,520.55,1887.75,326.1
+2025-08-26,Newcastle,Samsung A54,Smartphones,5,121.16,93.82,605.8,136.7
+2025-08-27,Newcastle,MacBook Air M1,Laptops,3,1022.76,537.19,3068.28,1456.71
+2025-08-28,Newcastle,AirPods Pro,Accessories,5,1181.6,894.14,5908.0,1437.3
+2025-08-29,Manchester,Lenovo Tab M10,Tablets,4,431.22,257.31,1724.88,695.64
+2025-08-30,Manchester,iPhone 14,Smartphones,2,686.17,577.75,1372.34,216.84
+2025-08-31,Manchester,Lenovo ThinkPad,Laptops,4,617.33,468.1,2469.32,596.92
+2025-09-01,Liverpool,AirPods Pro,Accessories,1,532.86,340.59,532.86,192.27
+2025-09-02,Birmingham,iPad Pro,Tablets,2,734.9,436.52,1469.8,596.76
+2025-09-03,Newcastle,MacBook Pro M2,Laptops,3,901.13,504.85,2703.39,1188.84
+2025-09-04,Birmingham,Logitech Mouse,Accessories,1,156.26,110.89,156.26,45.37
+2025-09-05,Liverpool,iPad Pro,Tablets,5,42.36,35.49,211.8,34.35
+2025-09-06,Liverpool,MacBook Air M1,Laptops,1,1014.64,714.56,1014.64,300.08
+2025-09-07,Liverpool,Logitech Mouse,Accessories,4,22.99,12.9,91.96,40.36
+2025-09-08,Liverpool,MacBook Air M1,Laptops,2,926.14,532.14,1852.28,788.0
+2025-09-09,Birmingham,Nintendo JoyCon,Gaming,4,1057.69,780.62,4230.76,1108.28
+2025-09-10,Birmingham,iPhone 14,Smartphones,5,882.73,519.56,4413.65,1815.85
+2025-09-11,Manchester,iPad 10,Tablets,2,610.57,484.75,1221.14,251.64
+2025-09-12,Birmingham,iPhone 15,Smartphones,2,1119.38,687.82,2238.76,863.12
+2025-09-13,Leeds,Lenovo Tab M10,Tablets,1,662.35,391.15,662.35,271.2
+2025-09-14,London,iPad 10,Tablets,3,33.4,23.59,100.2,29.43
+2025-09-15,London,iPad 10,Tablets,1,378.19,283.61,378.19,94.58
+2025-09-16,Manchester,Gaming Headset,Gaming,1,337.32,200.63,337.32,136.69
+2025-09-17,Liverpool,Lenovo Tab M10,Tablets,2,1104.45,786.76,2208.9,635.38
+2025-09-18,Liverpool,MacBook Pro M2,Laptops,2,1211.53,954.74,2423.06,513.58
+2025-09-19,Liverpool,Nintendo JoyCon,Gaming,2,780.14,459.25,1560.28,641.78
+2025-09-20,London,iPad Pro,Tablets,1,1382.73,974.21,1382.73,408.52
+2025-09-21,Manchester,Samsung A54,Smartphones,4,1374.58,1100.95,5498.32,1094.52
+2025-09-22,Birmingham,Lenovo Tab M10,Tablets,2,952.77,559.21,1905.54,787.12
+2025-09-23,Birmingham,HP Pavilion,Laptops,2,981.0,811.97,1962.0,338.06
+2025-09-24,Newcastle,MacBook Pro M2,Laptops,3,906.29,516.93,2718.87,1168.08
+2025-09-25,Liverpool,Nintendo JoyCon,Gaming,4,330.84,197.96,1323.36,531.52
+2025-09-26,Leeds,MacBook Air M1,Laptops,1,1387.56,748.11,1387.56,639.45
+2025-09-27,Liverpool,PS5 Controller,Gaming,2,1414.95,1077.3,2829.9,675.3
+2025-09-28,Birmingham,Gaming Headset,Gaming,3,183.44,110.29,550.32,219.45
+2025-09-29,Leeds,Anker Charger,Accessories,3,782.21,537.73,2346.63,733.44
+2025-09-30,Newcastle,Xbox Controller,Gaming,4,1311.5,1035.88,5246.0,1102.48
+2025-10-01,London,Gaming Headset,Gaming,2,572.81,340.84,1145.62,463.94
+2025-10-02,Liverpool,Xiaomi Mi 12,Smartphones,5,601.24,417.07,3006.2,920.85
+2025-10-03,Liverpool,Xiaomi Mi 12,Smartphones,2,1328.88,824.8,2657.76,1008.16
+2025-10-04,Newcastle,iPhone 14,Smartphones,5,699.6,450.46,3498.0,1245.7
+2025-10-05,Leeds,USB-C Cable,Accessories,1,1116.13,895.18,1116.13,220.95
+2025-10-06,Manchester,Samsung Buds,Accessories,1,530.94,342.44,530.94,188.5
+2025-10-07,Manchester,iPad Pro,Tablets,2,959.27,675.09,1918.54,568.36
+2025-10-08,Newcastle,iPhone 15,Smartphones,4,480.28,268.2,1921.12,848.32
+2025-10-09,Newcastle,Amazon Fire HD,Tablets,3,844.18,544.94,2532.54,897.72
+2025-10-10,London,Samsung S22,Smartphones,3,1050.72,783.58,3152.16,801.42
+2025-10-11,Manchester,Xbox Controller,Gaming,2,629.7,506.71,1259.4,245.98
+2025-10-12,Manchester,Steam Gift Card,Gaming,1,753.64,622.95,753.64,130.69
+2025-10-13,Manchester,Xiaomi Mi 12,Smartphones,5,1151.91,849.67,5759.55,1511.2
+2025-10-14,London,Xiaomi Mi 12,Smartphones,1,46.82,36.4,46.82,10.42
+2025-10-15,Manchester,Lenovo Tab M10,Tablets,3,849.8,611.81,2549.4,713.97
+2025-10-16,Leeds,AirPods Pro,Accessories,4,1051.97,803.1,4207.88,995.48
+2025-10-17,Newcastle,iPhone 14,Smartphones,3,208.53,125.1,625.59,250.29
+2025-10-18,Liverpool,Nintendo JoyCon,Gaming,3,1285.36,1039.72,3856.08,736.92
+2025-10-19,Manchester,Lenovo Tab M10,Tablets,1,1209.24,986.28,1209.24,222.96
+2025-10-20,London,AirPods Pro,Accessories,4,1274.93,880.92,5099.72,1576.04
+2025-10-21,Birmingham,Xbox Controller,Gaming,2,779.78,659.87,1559.56,239.82
+2025-10-22,Newcastle,Nintendo JoyCon,Gaming,2,495.32,285.82,990.64,419.0
+2025-10-23,Liverpool,Amazon Fire HD,Tablets,3,566.83,292.41,1700.49,823.26
+2025-10-24,Birmingham,Samsung Tab S9,Tablets,2,999.29,668.92,1998.58,660.74
+2025-10-25,Birmingham,Samsung Buds,Accessories,5,173.44,89.67,867.2,418.85
+2025-10-26,Manchester,iPhone 15,Smartphones,2,1177.3,898.41,2354.6,557.78
+2025-10-27,Leeds,AirPods Pro,Accessories,3,1013.31,726.71,3039.93,859.8
+2025-10-28,Manchester,Amazon Fire HD,Tablets,1,533.5,339.71,533.5,193.79
+2025-10-29,Leeds,Samsung S22,Smartphones,5,988.12,801.56,4940.6,932.8
+2025-10-30,Newcastle,Xbox Controller,Gaming,4,721.4,541.58,2885.6,719.28
+2025-10-31,Birmingham,iPad 10,Tablets,5,338.07,219.31,1690.35,593.8
+2025-11-01,Manchester,HP Pavilion,Laptops,3,298.12,157.09,894.36,423.09
+2025-11-02,London,HP Pavilion,Laptops,3,1236.31,903.53,3708.93,998.34
+2025-11-03,Leeds,Samsung S22,Smartphones,3,961.83,590.16,2885.49,1115.01
+2025-11-04,Newcastle,USB-C Cable,Accessories,2,432.12,315.08,864.24,234.08
+2025-11-05,Birmingham,Lenovo ThinkPad,Laptops,4,703.05,593.48,2812.2,438.28
+2025-11-06,London,Lenovo ThinkPad,Laptops,4,565.15,368.09,2260.6,788.24
+2025-11-07,Birmingham,Steam Gift Card,Gaming,5,1334.93,1052.61,6674.65,1411.6
+2025-11-08,Leeds,MacBook Air M1,Laptops,3,781.02,591.76,2343.06,567.78
+2025-11-09,Newcastle,MacBook Pro M2,Laptops,3,1222.82,913.93,3668.46,926.67
+2025-11-10,Leeds,Amazon Fire HD,Tablets,4,503.43,383.55,2013.72,479.52
+2025-11-11,Leeds,Dell XPS 13,Laptops,5,709.42,496.53,3547.1,1064.45
+2025-11-12,Liverpool,PS5 Controller,Gaming,3,53.19,33.3,159.57,59.67
+2025-11-13,Newcastle,Amazon Fire HD,Tablets,5,363.39,183.52,1816.95,899.35
+2025-11-14,Liverpool,MacBook Air M1,Laptops,4,77.63,61.56,310.52,64.28
+2025-11-15,Manchester,Dell XPS 13,Laptops,3,944.43,757.95,2833.29,559.44
+2025-11-16,Liverpool,iPad 10,Tablets,4,1486.21,1136.74,5944.84,1397.88
+2025-11-17,Liverpool,MacBook Pro M2,Laptops,5,596.06,345.78,2980.3,1251.4
+2025-11-18,Liverpool,iPad Pro,Tablets,4,800.96,459.81,3203.84,1364.6
+2025-11-19,Birmingham,Gaming Headset,Gaming,2,981.27,766.91,1962.54,428.72
+2025-11-20,Newcastle,Samsung S22,Smartphones,3,1252.59,785.19,3757.77,1402.2
+2025-11-21,Liverpool,Dell XPS 13,Laptops,5,954.83,495.59,4774.15,2296.2
+2025-11-22,Birmingham,iPhone 14,Smartphones,2,840.94,640.57,1681.88,400.74
+2025-11-23,Newcastle,Samsung A54,Smartphones,2,1008.29,799.65,2016.58,417.28
+2025-11-24,Liverpool,HP Pavilion,Laptops,2,1173.07,836.86,2346.14,672.42
+2025-11-25,Leeds,Anker Charger,Accessories,3,965.77,805.2,2897.31,481.71
+2025-11-26,Newcastle,Xbox Controller,Gaming,5,1254.01,909.03,6270.05,1724.9
+2025-11-27,Leeds,Dell XPS 13,Laptops,4,545.29,282.57,2181.16,1050.88
+2025-11-28,Newcastle,MacBook Air M1,Laptops,4,1323.84,1071.01,5295.36,1011.32
+2025-11-29,Leeds,Lenovo Tab M10,Tablets,3,1331.42,757.35,3994.26,1722.21
+2025-11-30,London,Samsung S22,Smartphones,3,64.44,52.46,193.32,35.94
+2025-12-01,London,Gaming Headset,Gaming,4,119.18,100.27,476.72,75.64
+2025-12-02,Manchester,iPhone 15,Smartphones,5,145.95,92.67,729.75,266.4
+2025-12-03,Manchester,Samsung Buds,Accessories,2,722.93,375.44,1445.86,694.98
+2025-12-04,Birmingham,USB-C Cable,Accessories,4,1460.15,1118.11,5840.6,1368.16
+2025-12-05,Birmingham,Lenovo Tab M10,Tablets,4,1243.4,780.8,4973.6,1850.4
+2025-12-06,Manchester,Steam Gift Card,Gaming,4,331.55,259.66,1326.2,287.56
+2025-12-07,Newcastle,Dell XPS 13,Laptops,4,933.48,517.7,3733.92,1663.12
+2025-12-08,London,Dell XPS 13,Laptops,4,424.99,285.06,1699.96,559.72
+2025-12-09,Manchester,iPhone 15,Smartphones,1,1078.48,645.66,1078.48,432.82
+2025-12-10,London,Xiaomi Mi 12,Smartphones,1,869.95,638.13,869.95,231.82
+2025-12-11,Manchester,Lenovo ThinkPad,Laptops,1,1152.44,955.54,1152.44,196.9
+2025-12-12,Birmingham,Lenovo Tab M10,Tablets,2,716.88,523.05,1433.76,387.66
+2025-12-13,Manchester,Logitech Mouse,Accessories,4,554.88,444.42,2219.52,441.84
+2025-12-14,Leeds,Logitech Mouse,Accessories,1,780.5,637.01,780.5,143.49
+2025-12-15,Birmingham,iPhone 14,Smartphones,5,775.02,587.22,3875.1,939.0
+2025-12-16,Liverpool,HP Pavilion,Laptops,4,837.94,528.12,3351.76,1239.28
+2025-12-17,Manchester,USB-C Cable,Accessories,3,343.69,193.84,1031.07,449.55
+2025-12-18,Birmingham,PS5 Controller,Gaming,3,1409.56,1145.82,4228.68,791.22
+2025-12-19,London,Samsung S22,Smartphones,5,1197.97,672.41,5989.85,2627.8
+2025-12-20,Birmingham,Xiaomi Mi 12,Smartphones,2,792.49,559.6,1584.98,465.78
+2025-12-21,Leeds,Steam Gift Card,Gaming,2,1193.04,858.47,2386.08,669.14
+2025-12-22,Manchester,Samsung A54,Smartphones,1,840.42,478.89,840.42,361.53
+2025-12-23,Liverpool,Dell XPS 13,Laptops,5,1418.11,1011.79,7090.55,2031.6
+2025-12-24,London,Dell XPS 13,Laptops,5,712.74,472.69,3563.7,1200.25
+2025-12-25,Leeds,Xbox Controller,Gaming,2,779.12,581.56,1558.24,395.12
+2025-12-26,Leeds,Lenovo ThinkPad,Laptops,2,272.65,139.23,545.3,266.84
+2025-12-27,Birmingham,Samsung S22,Smartphones,4,1011.65,671.65,4046.6,1360.0
+2025-12-28,London,Gaming Headset,Gaming,1,1282.41,1057.9,1282.41,224.51
+2025-12-29,Birmingham,Logitech Mouse,Accessories,3,684.58,399.19,2053.74,856.17
+2025-12-30,Newcastle,Xiaomi Mi 12,Smartphones,1,920.31,550.68,920.31,369.63
+2025-12-31,Liverpool,AirPods Pro,Accessories,3,1206.14,768.59,3618.42,1312.65
+2026-01-01,Leeds,iPad 10,Tablets,1,370.66,273.21,370.66,97.45
+2026-01-02,London,Lenovo ThinkPad,Laptops,5,1243.75,850.3,6218.75,1967.25
+2026-01-03,Liverpool,Samsung S22,Smartphones,3,530.72,270.95,1592.16,779.31
+2026-01-04,Newcastle,Dell XPS 13,Laptops,4,903.99,658.72,3615.96,981.08
+2026-01-05,Manchester,Samsung Buds,Accessories,5,1329.59,1008.72,6647.95,1604.35
+2026-01-06,London,Samsung S22,Smartphones,4,1445.77,728.09,5783.08,2870.72
+2026-01-07,Liverpool,Samsung A54,Smartphones,4,1485.36,904.82,5941.44,2322.16
+2026-01-08,London,Amazon Fire HD,Tablets,1,151.7,128.5,151.7,23.2
+2026-01-09,Birmingham,Samsung Buds,Accessories,4,313.77,174.99,1255.08,555.12
+2026-01-10,Newcastle,PS5 Controller,Gaming,2,300.3,150.68,600.6,299.24
+2026-01-11,Liverpool,MacBook Air M1,Laptops,2,978.32,582.65,1956.64,791.34
+2026-01-12,Liverpool,Lenovo Tab M10,Tablets,3,1140.43,592.41,3421.29,1644.06
+2026-01-13,Manchester,AirPods Pro,Accessories,5,389.2,292.29,1946.0,484.55
+2026-01-14,London,Anker Charger,Accessories,4,484.54,359.47,1938.16,500.28
+2026-01-15,London,iPhone 15,Smartphones,3,526.32,342.36,1578.96,551.88
+2026-01-16,Manchester,USB-C Cable,Accessories,5,806.55,484.56,4032.75,1609.95
+2026-01-17,Leeds,HP Pavilion,Laptops,1,263.32,142.4,263.32,120.92
+2026-01-18,Manchester,Samsung S22,Smartphones,4,1104.84,807.12,4419.36,1190.88
+2026-01-19,Liverpool,Gaming Headset,Gaming,3,858.58,626.73,2575.74,695.55
+2026-01-20,Liverpool,MacBook Pro M2,Laptops,1,1415.14,748.55,1415.14,666.59
+2026-01-21,Liverpool,Steam Gift Card,Gaming,2,873.75,578.77,1747.5,589.96
+2026-01-22,London,Steam Gift Card,Gaming,5,119.51,84.64,597.55,174.35
+2026-01-23,Manchester,Logitech Mouse,Accessories,3,807.79,433.09,2423.37,1124.1
+2026-01-24,Newcastle,Nintendo JoyCon,Gaming,5,384.44,249.21,1922.2,676.15
+2026-01-25,Birmingham,iPhone 15,Smartphones,5,375.3,206.61,1876.5,843.45
+2026-01-26,London,Samsung A54,Smartphones,1,697.73,404.18,697.73,293.55
+2026-01-27,London,iPhone 14,Smartphones,2,551.63,434.82,1103.26,233.62
+2026-01-28,London,Lenovo Tab M10,Tablets,1,505.71,289.86,505.71,215.85
+2026-01-29,Leeds,Xiaomi Mi 12,Smartphones,3,347.43,220.04,1042.29,382.17
+2026-01-30,Liverpool,Nintendo JoyCon,Gaming,5,699.5,424.0,3497.5,1377.5
+2026-01-31,Manchester,USB-C Cable,Accessories,2,1032.12,708.09,2064.24,648.06
+2026-02-01,Manchester,Xbox Controller,Gaming,4,389.66,284.05,1558.64,422.44
+2026-02-02,Birmingham,HP Pavilion,Laptops,1,1393.59,1108.88,1393.59,284.71
+2026-02-03,Birmingham,Samsung Tab S9,Tablets,4,1046.14,760.42,4184.56,1142.88
+2026-02-04,Leeds,Logitech Mouse,Accessories,2,1253.79,984.39,2507.58,538.8
+2026-02-05,Birmingham,PS5 Controller,Gaming,3,1444.15,946.55,4332.45,1492.8
+2026-02-06,Birmingham,Xbox Controller,Gaming,5,123.76,79.0,618.8,223.8
+2026-02-07,Leeds,Amazon Fire HD,Tablets,4,640.39,357.9,2561.56,1129.96
+2026-02-08,Manchester,Dell XPS 13,Laptops,3,408.27,248.87,1224.81,478.2
+2026-02-09,Newcastle,Logitech Mouse,Accessories,2,488.55,293.13,977.1,390.84
+2026-02-10,Birmingham,MacBook Pro M2,Laptops,2,1022.61,664.66,2045.22,715.9
+2026-02-11,Manchester,Dell XPS 13,Laptops,5,993.92,499.76,4969.6,2470.8
+2026-02-12,Manchester,Gaming Headset,Gaming,4,1156.83,781.05,4627.32,1503.12
+2026-02-13,Liverpool,MacBook Pro M2,Laptops,1,476.53,333.84,476.53,142.69
+2026-02-14,Birmingham,iPad Pro,Tablets,3,1075.01,799.64,3225.03,826.11
+2026-02-15,Newcastle,iPhone 14,Smartphones,3,531.79,390.8,1595.37,422.97
+2026-02-16,Leeds,iPad 10,Tablets,4,585.73,419.83,2342.92,663.6
+2026-02-17,Newcastle,iPad Pro,Tablets,3,1496.48,848.35,4489.44,1944.39
+2026-02-18,Manchester,iPhone 15,Smartphones,1,470.65,267.96,470.65,202.69
+2026-02-19,Newcastle,Lenovo Tab M10,Tablets,5,474.68,328.13,2373.4,732.75
+2026-02-20,London,Samsung A54,Smartphones,2,272.99,176.45,545.98,193.08
+2026-02-21,London,MacBook Pro M2,Laptops,1,1041.8,645.07,1041.8,396.73
+2026-02-22,Liverpool,Samsung S22,Smartphones,4,516.72,272.25,2066.88,977.88
+2026-02-23,London,Lenovo Tab M10,Tablets,5,1423.41,863.46,7117.05,2799.75
+2026-02-24,Liverpool,HP Pavilion,Laptops,1,641.05,331.88,641.05,309.17
+2026-02-25,Newcastle,Samsung S22,Smartphones,2,1289.77,974.94,2579.54,629.66
+2026-02-26,Birmingham,Samsung A54,Smartphones,3,473.52,243.43,1420.56,690.27
+2026-02-27,Liverpool,USB-C Cable,Accessories,4,1461.22,1008.93,5844.88,1809.16
+2026-02-28,London,Samsung Tab S9,Tablets,4,650.66,514.88,2602.64,543.12
+2026-03-01,Birmingham,PS5 Controller,Gaming,4,1229.61,1015.21,4918.44,857.6
+2026-03-02,Newcastle,USB-C Cable,Accessories,4,445.24,266.21,1780.96,716.12
+2026-03-03,Liverpool,Lenovo ThinkPad,Laptops,4,748.95,490.37,2995.8,1034.32
+2026-03-04,Leeds,Anker Charger,Accessories,3,340.05,194.85,1020.15,435.6
+2026-03-05,Birmingham,Amazon Fire HD,Tablets,5,240.89,143.06,1204.45,489.15
+2026-03-06,Liverpool,MacBook Pro M2,Laptops,5,1244.49,876.98,6222.45,1837.55
+2026-03-07,Newcastle,Lenovo ThinkPad,Laptops,3,969.43,572.87,2908.29,1189.68
+2026-03-08,Newcastle,Anker Charger,Accessories,4,200.73,108.17,802.92,370.24
+2026-03-09,Manchester,AirPods Pro,Accessories,4,1016.18,801.28,4064.72,859.6
+2026-03-10,Leeds,Gaming Headset,Gaming,3,553.5,406.79,1660.5,440.13
